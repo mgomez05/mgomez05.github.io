@@ -22,4 +22,4 @@ Time I have spent completing the assignment:
 -Approximately 6 hours
 
 Other notes:
-Some of my earlier commit messages are not quite as descriptive, as I forgot that I could check my work without pushing it to Github and so was pushing somewhat excessively. However, after I rediscovered that I could, my messages returned to being more meaningful.
+Some of my earlier commit messages are not quite as descriptive, as I forgot that I could check my work without pushing it to Github and so was pushing somewhat excessively. However, after I rediscovered that I could, my messages returned to being more meaningful. I also was unable to push to GitHub continously for the second half of my work on the assignment, as I was working in an environment that didn't have steady wifi access.
