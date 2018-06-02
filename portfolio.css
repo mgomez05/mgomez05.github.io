@@ -31,8 +31,8 @@ ul#index-links li a {
   text-align: center:
 }
 
-li a:hover {
-  background-color: #555;
+#index-links li a:hover {
+  background-color: green;
   color: white;
 }
 
