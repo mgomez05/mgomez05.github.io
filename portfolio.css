@@ -60,6 +60,10 @@ h3 {
 p {
   color: DarkGreen;
 }
+p#bio-paragraph {
+ margin: 5px;
+ 
+}
 
 ul li {
   color: DarkGreen;
